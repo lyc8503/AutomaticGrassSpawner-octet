@@ -12,7 +12,7 @@
 
 ### 执行效果
 
-把一段文字放进 Google 翻译中随机反复翻译~~, 然后得到草.~~
+把一段文字放进 Google 翻译中随机反复翻译, ~~然后得到草.~~
 
  ```
 源文字: The moon shines on my bed brightly, So that I mistook it for frost on the ground. I gaze at the moonlight with head uplifted; Now my head droops, and my thoughts turn homeward.
